@@ -1,0 +1,39 @@
+body,li,span{
+  background-color: #0D1117 !important;
+  color: #C9D1D9 !important;
+}
+
+li{
+  border: 0.5px solid #30363D !important;
+  padding: 10px !important;
+
+}
+li:hover{
+  background-color: #161b22 !important;
+}
+span{
+  font-size: 12px !important;
+}
+a{
+  text-decoration: none;
+  color: #C9D1D9;
+  cursor: pointer;
+
+}
+a:hover{
+  color: #58a6ff !important;
+}
+.open.octicon {
+  color: #3ffb95 !important;
+}
+
+.issue_label{
+  /* background-color: #d4c5f9 !important; */
+  /* color: #0D1117; */
+  font-size: 10px;
+  border-radius: 20px;
+  border: 0.7px solid rgb(159, 156, 211) !important;
+  width: 120px;
+  padding: 7px;
+  box-shadow: 1px 1px 0.5px 0.5px;
+}
